@@ -16,6 +16,10 @@ Mark Butler wrote a
 around lein-ring's uberwar command, and I've packaged it into a
 standalone, easy-to-use lein plugin: lein-awsuberwar.
 
+You can use the `:awsuberwar` profile in your `project.clj` to specify
+options to use when creating an awsuberwar.
+
+
 ## Usage
 
 Put `[lein-awsuberwar "0.1.0"]` into the `:plugins` vector of your
