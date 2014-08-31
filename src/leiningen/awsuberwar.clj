@@ -38,4 +38,5 @@
            (if (war/has-listener? project)
              (war/compile-listener project))
            (uberwar/write-uberwar project war-path)
+           (println "Created" war-path)
            war-path)))))
