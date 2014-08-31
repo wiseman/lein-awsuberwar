@@ -1,4 +1,4 @@
-(defproject lein-awsuberwar "0.1.0"
+(defproject lein-awsuberwar "0.1.1-SNAPSHOT"
   :description "Creates an uberwar that includes .ebextensions, if it exists."
   :url "https://github.com/wiseman/lein-awsuberwar"
   :license {:name "Eclipse Public License"
