@@ -1,5 +1,5 @@
-(defproject lein-awsuberwar "0.1.2"
-  :description "Creates an uberwar that includes .ebextensions, if it exists."
+(defproject lein-awsuberwar "0.1.3"
+  :description "Creates an uberwar (standalone war) file that includes AWS .ebextensions, if it exists. Useful for Elastic Beanstalk."
   :url "https://github.com/wiseman/lein-awsuberwar"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
