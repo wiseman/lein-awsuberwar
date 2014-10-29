@@ -22,7 +22,7 @@ options to use when creating an awsuberwar.
 
 ## Usage
 
-Put `[lein-awsuberwar "0.1.0"]` into the `:plugins` vector of your
+Put `[lein-awsuberwar "0.1.3"]` into the `:plugins` vector of your
 project.clj.
 
 Then create an uberwar:
